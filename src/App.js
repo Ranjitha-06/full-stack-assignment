@@ -20,12 +20,7 @@ function App() {
    
     <Route exact path="/"><Scroll/>
     </Route>
-    <Route exact path="/design">
-    <Scroll/>
-    </Route>
-    <Route exact path="/scenary">
-    <Scroll/>
-    </Route>
+   
    
    
     </div>

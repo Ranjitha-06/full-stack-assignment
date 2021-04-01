@@ -14,8 +14,8 @@ export const Card=()=> {
                 <div className="card-tabs links ">
                     <ul className="tabs tabs-fixed-width black" >
                             <li className="tab"><a href="/">Web</a></li>
-                            <li className="tab"><a href="/design">Design</a></li>
-                            <li className="tab"><a href="/scenary">Scenary</a></li>
+                            <li className="tab"><a href="/">Design</a></li>
+                            <li className="tab"><a href="/">Scenary</a></li>
                     </ul>
                 </div>
               </div>
