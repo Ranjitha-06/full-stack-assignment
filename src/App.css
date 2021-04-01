@@ -63,3 +63,21 @@
 .links l{
   margin:25px 25px 25px 25px !important;
 }
+footer{
+  background-color: #caced1;
+}
+.mask{
+  background-color: rgba(251, 251, 251, 0.2)
+}
+.move{
+  margin-left: 10px;
+}
+.moveme{
+  margin-right: 10px;
+}
+a:hover{
+  color:black;
+}
+.trans:hover{
+  background-color:black;
+}

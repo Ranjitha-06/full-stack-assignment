@@ -9,13 +9,15 @@ export const Card=()=> {
             <div className="col s20 m14 center">
               <div className="card black  center">
                 <div className="card-content white-text  center">
-                  <span className="card-title" ><h4>I’m a freelance digital designer, with +10 years of experience</h4></span>
+                <h3><font color="white">I’m a freelance <font color="#42a5f5">digital designer</font>, with +10 years of experience</font></h3>
+
                 </div>
                 <div className="card-tabs links ">
-                    <ul className="tabs tabs-fixed-width black" >
-                            <li className="tab"><a href="/">Web</a></li>
-                            <li className="tab"><a href="/">Design</a></li>
-                            <li className="tab"><a href="/">Scenary</a></li>
+
+                    <ul className="tabs tabs-fixed-width " >
+                            <li className="tab trans btn "><a href="/">Web</a></li>
+                            <li className="tab trans btn"><a href="/">Design</a></li>
+                            <li className="tab trans btn"><a href="/">Scenary</a></li>
                     </ul>
                 </div>
               </div>
