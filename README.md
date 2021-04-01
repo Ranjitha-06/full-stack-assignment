@@ -1,15 +1,18 @@
-#Refer below links
 
-##Click on the link to see the running application: [Netlify Link](https://flamboyant-babbage-a9d26c.netlify.app/)
+# Refer to the below links
 
-##[LinkedIn Link](https://www.linkedin.com/in/ranjitha-v-96b781197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD%2FT%2FstLuQxO1qaqlvlL64w%3D%3D)
+## Click on the link to see the running application: [Netlify Link](https://flamboyant-babbage-a9d26c.netlify.app/)
 
-##[Internshala Link](https://internshala.com/student/dashboard)
+## [LinkedIn Link](https://www.linkedin.com/in/ranjitha-v-96b781197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD%2FT%2FstLuQxO1qaqlvlL64w%3D%3D)
 
+## [Internshala Link](https://internshala.com/student/dashboard)
 
-#Description:
+# Description 
 This application is used to display images infinitely i.e. the user can be able to see the images on scrolling.\
 [Refence Link to load images]( https://unsplash.com/oauth/applications/219579)
+
+
+
 
 ## Getting Started with Create React App
 
