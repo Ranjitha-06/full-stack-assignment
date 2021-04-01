@@ -4,7 +4,6 @@
 
  [LinkedIn Link](https://www.linkedin.com/in/ranjitha-v-96b781197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD%2FT%2FstLuQxO1qaqlvlL64w%3D%3D)
 
- [Internshala Link](https://internshala.com/student/dashboard)
 
 ## Description 
 This application is used to display images infinitely i.e. the user can be able to see the images on scrolling.\
