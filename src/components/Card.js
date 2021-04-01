@@ -11,11 +11,11 @@ export const Card=()=> {
                 <div className="card-content white-text  center">
                   <span className="card-title" ><h4>I’m a freelance digital designer, with +10 years of experience</h4></span>
                 </div>
-                <div class="card-tabs links ">
-                    <ul class="tabs tabs-fixed-width black" >
-                            <li class="tab"><a href="/">Web</a></li>
-                            <li class="tab"><a href="/design">Design</a></li>
-                            <li class="tab"><a href="/scenary">Scenary</a></li>
+                <div className="card-tabs links ">
+                    <ul className="tabs tabs-fixed-width black" >
+                            <li className="tab"><a href="/">Web</a></li>
+                            <li className="tab"><a href="/design">Design</a></li>
+                            <li className="tab"><a href="/scenary">Scenary</a></li>
                     </ul>
                 </div>
               </div>
